@@ -1,5 +1,7 @@
 # Learn Data Analysis
 
+Welcome to our collection of resources for learning data analysis. Whether you're a beginner or an experienced professional, you'll find valuable materials here to enhance your skills in data science, statistical learning, machine learning, deep learning, and programming.
+
 ## Data Science and Statistical Learning
 
 - [R for Data Science](https://r4ds.hadley.nz/) by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund
