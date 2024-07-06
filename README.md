@@ -1,4 +1,4 @@
-# Data Analysis Learning Resources
+# Learn Data Analysis
 
 - [R for Data Science](https://r4ds.hadley.nz/) by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund
 - [Deep Learning with Python](https://sourestdeeds.github.io/pdf/Deep%20Learning%20with%20Python.pdf) by François Chollet
