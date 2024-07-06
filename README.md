@@ -1,7 +1,5 @@
 # Data Analysis Learning Resources
 
-Collection of Data Analysis Resources
-
 - [R for Data Science](https://r4ds.hadley.nz/) by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund
 - [Deep Learning with Python](https://sourestdeeds.github.io/pdf/Deep%20Learning%20with%20Python.pdf) by François Chollet
 - [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://hastie.su.domains/Papers/ESLII.pdf) by Trevor Hastie, Robert Tibshirani, and Jerome Friedman
