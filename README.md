@@ -17,3 +17,6 @@ Collection of Data Analysis Resources
 - [New York Academy of Medicine Data Sets](https://www.nyam.org/library/collections-and-resources/data-sets/)
 - [data.world Data Sets](https://data.world/datasets/health)
 - [National Cancer Institute](https://seer.cancer.gov/)
+
+## Acknowledgements
+A special thank you to [Rose Dasgupta, PhD, MPH, MHI, MS](https://github.com/pritikadasgupta) (they/them/he/him/ze/zir) for compiling these resources.
