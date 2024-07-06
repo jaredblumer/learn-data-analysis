@@ -1,6 +1,6 @@
 # Learn Data Analysis
 
-Welcome to our collection of resources for learning data analysis. Whether you're a beginner or an experienced professional, you'll find valuable materials here to enhance your skills in data science, statistical learning, machine learning, deep learning, and programming.
+Welcome to our curated collection of resources for learning data science, statistical learning, machine learning, deep learning, programming, and automation.
 
 ## Data Science and Statistical Learning
 
