@@ -1,6 +1,6 @@
 # Learn Data Analysis
 
-Welcome to our curated collection of resources for learning data science, statistical learning, machine learning, deep learning, programming, and automation.
+Welcome to our curated collection of resources for learning data science, statistics, machine learning, deep learning, programming, and automation.
 
 ## Data Science and Statistical Learning
 
