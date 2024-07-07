@@ -2,7 +2,7 @@
 
 Welcome to our curated collection of resources for learning data science, statistics, machine learning, deep learning, programming, and automation.
 
-## Data Science and Statistical Learning
+## Data Science and Statistics
 
 - [R for Data Science](https://r4ds.hadley.nz/) by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund
 - [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://hastie.su.domains/Papers/ESLII.pdf) by Trevor Hastie, Robert Tibshirani, and Jerome Friedman
