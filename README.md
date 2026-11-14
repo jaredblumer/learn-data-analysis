@@ -2,6 +2,8 @@
 
 Welcome to our curated collection of resources for learning data science, statistics, machine learning, deep learning, programming, automation, and modern data platforms.
 
+A special thank you to [Golapri Rose Ila Dasgupta, PhD, MPH, MHI, MS](https://github.com/pritikadasgupta) (they/them/he/him/ze/zir) for compiling these resources.
+
 ## 🧭 Suggested Learning Path
 
 If you’re brand new, a simple (and common) order that works well:
@@ -23,7 +25,6 @@ If you’re brand new, a simple (and common) order that works well:
 - [🛠️ Tools and Environments](#-tools-and-environments)
 - [🧩 Practice and Projects](#-practice-and-projects)
 - [📚 Reference Materials](#-reference-materials)
-- [Acknowledgements](#acknowledgements)
 
 ## 📊 Data Science and Statistics
 
@@ -170,10 +171,6 @@ If you’re brand new, a simple (and common) order that works well:
 
 See the [`references/`](references/) directory for:
 - **[Common Statistical Tests](references/List_of_Common_Statistical_Tests.md)** — comprehensive guide to choosing and interpreting statistical tests in epidemiology and applied statistics
-
-## Acknowledgements
-
-A special thank you to [Golapri Rose Ila Dasgupta, PhD, MPH, MHI, MS](https://github.com/pritikadasgupta) (they/them/he/him/ze/zir) for compiling these resources.
 
 ---
 
