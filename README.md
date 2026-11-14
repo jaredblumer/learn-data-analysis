@@ -37,7 +37,7 @@ If you’re brand new, a simple (and common) order that works well:
 
 ### Biostatistics and Epidemiology
 - [OpenIntro Statistics](https://www.openintro.org/book/os/) — free introductory statistics textbook
-- [Fundamentals of Biostatistics](https://www.cengage.com/c/fundamentals-of-biostatistics-8e-rosner/) by Bernard Rosner
+- [Fundamentals of Biostatistics](https://www.cengage.com/c/fundamentals-of-biostatistics-8e-rosner/9781305268920) by Bernard Rosner
 - [Modern Epidemiology](https://shop.lww.com/Modern-Epidemiology/p/9781451193282) by Kenneth Rothman, Sander Greenland, and Timothy Lash
 
 ### Bayesian Statistics
