@@ -2,6 +2,8 @@
 
 Welcome to our curated collection of resources for learning data science, statistics, machine learning, deep learning, programming, automation, and modern data platforms.
 
+A special thank you to [Golapri Rose Ila Dasgupta, PhD, MPH, MHI, MS](https://github.com/pritikadasgupta) (they/them/he/him/ze/zir) for compiling these resources.
+
 ## 🧭 Suggested Learning Path
 
 If you’re brand new, a simple (and common) order that works well:
@@ -23,25 +25,24 @@ If you’re brand new, a simple (and common) order that works well:
 - [🛠️ Tools and Environments](#-tools-and-environments)
 - [🧩 Practice and Projects](#-practice-and-projects)
 - [📚 Reference Materials](#-reference-materials)
-- [Acknowledgements](#acknowledgements)
 
 ## 📊 Data Science and Statistics
 
 ### Foundational Texts
 - [R for Data Science (2e)](https://r4ds.hadley.nz/) by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund
-- [The Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf) by Trevor Hastie, Robert Tibshirani, and Jerome Friedman
+- [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/) by Trevor Hastie, Robert Tibshirani, and Jerome Friedman
 - [Introduction to Probability](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/edit) by Joseph K. Blitzstein and Jessica Hwang
 - [Think Stats: Exploratory Data Analysis in Python](https://greenteapress.com/thinkstats2/thinkstats2.pdf) by Allen B. Downey
 - [An Introduction to Statistical Learning](https://www.statlearning.com/) by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani
 
 ### Biostatistics and Epidemiology
 - [OpenIntro Statistics](https://www.openintro.org/book/os/) — free introductory statistics textbook
-- [Fundamentals of Biostatistics](https://www.cengage.com/c/fundamentals-of-biostatistics-8e-rosner/) by Bernard Rosner
+- [Fundamentals of Biostatistics](https://www.cengage.com/c/fundamentals-of-biostatistics-8e-rosner/9781305268920) by Bernard Rosner
 - [Modern Epidemiology](https://shop.lww.com/Modern-Epidemiology/p/9781451193282) by Kenneth Rothman, Sander Greenland, and Timothy Lash
 
 ### Bayesian Statistics
 - [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/) by Richard McElreath (with accompanying [YouTube lectures](https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus))
-- [Bayesian Data Analysis (3e)](http://www.stat.columbia.edu/~gelman/book/) by Andrew Gelman et al.
+- [Bayesian Data Analysis (3e)](https://sites.stat.columbia.edu/gelman/book/) by Andrew Gelman et al.
 - [Doing Bayesian Data Analysis (2e)](https://shop.elsevier.com/books/doing-bayesian-data-analysis/kruschke/978-0-12-405888-0) by John Kruschke
 - [Bayesian Computation with R (2e)](https://link.springer.com/book/10.1007/978-0-387-92298-0) by Jim Albert
 - [Reasoning with Data](https://www.guilford.com/books/Reasoning-with-Data/Jeffrey-Stanton/9781462530267) by Jeffrey M. Stanton (traditional + Bayesian inference in R)
@@ -54,17 +55,17 @@ If you’re brand new, a simple (and common) order that works well:
 - [Deep Learning with Python (2e)](https://www.manning.com/books/deep-learning-with-python-second-edition) by François Chollet
 - [Machine Learning Mastery Books](https://github.com/jbrownlee/Books) by Jason Brownlee, PhD
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurélien Géron
-- [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) by Christopher Bishop
+- [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) by Christopher Bishop
 
 ### Online Courses
 - [fast.ai Practical Deep Learning](https://course.fast.ai/) — free, practical approach to deep learning
 - [Stanford CS229: Machine Learning](https://cs229.stanford.edu/) — Andrew Ng's foundational ML course
-- [Stanford CS231n: CNNs for Visual Recognition](http://cs231n.stanford.edu/)
-- [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
+- [Stanford CS231n: CNNs for Visual Recognition](https://cs231n.stanford.edu/)
+- [MIT 6.S191: Introduction to Deep Learning](https://introtodeeplearning.com/)
 
 ### NLP and LLMs
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) by Dan Jurafsky and James Martin
-- [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/)
+- [Hugging Face LLM Course](https://huggingface.co/learn/llm-course/)
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) by Jay Alammar
 
 ## 💻 Programming and Automation
@@ -81,7 +82,7 @@ If you’re brand new, a simple (and common) order that works well:
 
 ### SQL
 - [SQL for Data Scientists](https://sqlfordatascientists.com/) by Renee Teate
-- [Mode SQL Tutorial](https://mode.com/sql-tutorial/)
+- [Mode SQL Tutorial](https://www.thoughtspot.com/sql-tutorial)
 
 ### Quick References
 - [Learn X in Y Minutes](https://learnxinyminutes.com/) — quick syntax references for many languages
@@ -92,7 +93,7 @@ If you’re brand new, a simple (and common) order that works well:
 - [dbt Learn: Course Catalog](https://learn.getdbt.com/catalog) — free, structured courses and walkthroughs
 - [dbt Developer Hub (official docs)](https://docs.getdbt.com/) — the canonical reference
 - [dbt Quickstarts](https://docs.getdbt.com/docs/get-started-dbt) — step-by-step getting started guides across platforms
-- [dbt Core installation overview](https://docs.getdbt.com/docs/core/installation-overview) — local CLI-based setup
+- [dbt installation guide](https://docs.getdbt.com/docs/local/install-dbt) — local CLI-based setup
 - [dbt Best Practices](https://docs.getdbt.com/best-practices) — project structure, style, testing, and deployment patterns
 - [dbt Hub](https://hub.getdbt.com/) — community packages (e.g., `dbt_utils`, `codegen`)
 
@@ -115,12 +116,11 @@ If you’re brand new, a simple (and common) order that works well:
 ### General
 - [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/)
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
-- [data.world Health Datasets](https://data.world/datasets/health)
 - [Google Dataset Search](https://datasetsearch.research.google.com/)
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 
 ### Healthcare and Biomedical
-- [New York Academy of Medicine Data Sets](https://www.nyam.org/library/collections-and-resources/data-sets/)
+- [New York Academy of Medicine Data Sets](https://nyam.org/library-resources/library-collections/databases/)
 - [National Cancer Institute SEER](https://seer.cancer.gov/)
 - [CMS Medicare Data](https://data.cms.gov/)
 - [MIMIC Critical Care Database](https://mimic.mit.edu/)
@@ -170,10 +170,6 @@ If you’re brand new, a simple (and common) order that works well:
 
 See the [`references/`](references/) directory for:
 - **[Common Statistical Tests](references/List_of_Common_Statistical_Tests.md)** — comprehensive guide to choosing and interpreting statistical tests in epidemiology and applied statistics
-
-## Acknowledgements
-
-A special thank you to [Golapri Rose Ila Dasgupta, PhD, MPH, MHI, MS](https://github.com/pritikadasgupta) (they/them/he/him/ze/zir) for compiling these resources.
 
 ---
 
