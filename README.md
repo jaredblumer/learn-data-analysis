@@ -116,7 +116,6 @@ If you’re brand new, a simple (and common) order that works well:
 ### General
 - [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/)
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
-- [data.world Health Datasets](https://data.world/datasets/health)
 - [Google Dataset Search](https://datasetsearch.research.google.com/)
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 
